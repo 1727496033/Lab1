@@ -21,7 +21,7 @@ public class Main {
 
 
     public Main(){
-        //GUI设计
+        //GUI
         JFrame frame = new JFrame("软件工程实验一");
         frame.setBounds(500, 200, 300, 500);
         frame.setLayout(null);
