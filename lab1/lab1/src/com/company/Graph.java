@@ -69,7 +69,7 @@ public class Graph {
 
     public void preGraph(String str){//对字符串进行先行处理 得到顶点表和边表
         String[] arr1 = str.split("[\\s]+");
-        String[] arr ;//新建字符串数组要有大小
+        String[] arr ;//新建字符串数组
         List<String> listhaskongge = new ArrayList<>();
 
         for (int i = 0; i < arr1.length; i++) {
