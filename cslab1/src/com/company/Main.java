@@ -16,7 +16,7 @@ import java.lang.*;
 
 public class Main {
     private Graph G;
-
+   // private JFrame jframe = new JFrame();
 
 
 
@@ -47,11 +47,11 @@ public class Main {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         JFileChooser chooser = new JFileChooser();
-        chooser.setCurrentDirectory(new File("."));
+        chooser.setCurrentDirectory(new File("."));//设置当前打开的默认路径
 
 
         button1.addActionListener(new ActionListener() {
-            @Override
+            @Override//当点击按钮1时生成一个新窗口，并让用户输入路径
             public void actionPerformed(ActionEvent e) {
                 String path ;
                 try{
@@ -62,11 +62,11 @@ public class Main {
 
                         if (readFileByChars(path).equals(new String("文件不存在")))
                             JOptionPane.showMessageDialog(null, "文件不存在",
-                                    "Error！", JOptionPane.ERROR_MESSAGE);
+                                    "Error！", JOptionPane.ERROR_MESSAGE);//如果结果不是空，则显示有向图已经建立
                         else if (G == null) JOptionPane.showMessageDialog(null, "有向图尚未生成",
-                                "Error!", JOptionPane.ERROR_MESSAGE);
+                                "Error!", JOptionPane.ERROR_MESSAGE);//如果结果不是空，则显示有向图已经建立
                         else JOptionPane.showMessageDialog(null, "有向图已经建立",
-                                    "提示信息", JOptionPane.INFORMATION_MESSAGE);
+                                    "提示信息", JOptionPane.INFORMATION_MESSAGE);//如果结果不是空，则显示有向图已经建立
 
                     }
                 }catch (Exception e2){
