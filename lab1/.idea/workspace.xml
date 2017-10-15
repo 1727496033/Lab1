@@ -4,7 +4,63 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/company/Main.java" line="270" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e9b8121-f3fe-48c8-b085-d7b66e421cb1" name="Default" comment="" />
+    <list default="true" id="6e9b8121-f3fe-48c8-b085-d7b66e421cb1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/.idea/description.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/.idea/project-template.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/lab1.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/DrawFn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/JS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/JTextPaneDemo$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/JTextPaneDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/LSJFream$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/LSJFream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyCanvas1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$17.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$18.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$19.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$20.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/MyFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/TestDrawArc.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/drawFnPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/JFAME/draw_actionAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/Graph$Vertex.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/Graph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/GraphViz.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/Main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/Main$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/Main$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/Main$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/Main$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/Main$6$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/Main$6$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/Main$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/Main$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/out/production/lab1/com/company/Side.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/src/com/company/Graph.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/src/com/company/GraphViz.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/src/com/company/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab1/src/com/company/Side.java" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +71,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="68" column="77" lean-forward="false" selection-start-line="68" selection-start-column="77" selection-end-line="68" selection-end-column="77" />
+            <state relative-caret-position="437">
+              <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GraphViz.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GraphViz.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/GraphViz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1083">
-              <caret line="85" column="7" lean-forward="false" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+            <state relative-caret-position="114">
+              <caret line="34" column="15" lean-forward="false" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -52,7 +108,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1330">
               <caret line="74" column="47" lean-forward="false" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
-              <folding />
+              <folding>
+                <marker date="1508063121198" expanded="false" signature="3108:3118" ph=" { " />
+                <marker date="1508063121198" expanded="false" signature="3131:3137" ph=" }" />
+                <marker date="1508063121198" expanded="false" signature="3170:3181" ph=" { " />
+                <marker date="1508063121198" expanded="false" signature="3198:3204" ph=" }" />
+                <marker date="1508063121198" expanded="true" signature="3257:3524" ph="{...}" />
+                <marker date="1508063121198" expanded="true" signature="3564:3728" ph="{...}" />
+                <marker date="1508063121198" expanded="true" signature="3758:4209" ph="{...}" />
+                <marker date="1508063121198" expanded="true" signature="3759:3839" ph="//..." />
+                <marker date="1508063121198" expanded="true" signature="4238:4991" ph="{...}" />
+                <marker date="1508063121198" expanded="true" signature="5036:5611" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,6 +132,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -85,7 +155,6 @@
         <option value="$PROJECT_DIR$/src/JFAME/DrawFn.java" />
         <option value="$PROJECT_DIR$/src/JFAME/TestDrawArc.java" />
         <option value="$PROJECT_DIR$/src/com/company/config" />
-        <option value="$PROJECT_DIR$/src/com/company/GraphViz.java" />
         <option value="$PROJECT_DIR$/src/com/company/drawGraph.java" />
         <option value="$PROJECT_DIR$/src/com/company/Proba.java" />
         <option value="$PROJECT_DIR$/src/com/company/DjistraPath.java" />
@@ -96,6 +165,7 @@
         <option value="$PROJECT_DIR$/src/com/company/Graph.java" />
         <option value="$PROJECT_DIR$/src/com/company/WriteToFileExample.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/GraphViz.java" />
       </list>
     </option>
   </component>
@@ -105,7 +175,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="width" value="1378" />
     <option name="height" value="744" />
@@ -125,9 +195,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,7 +210,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -686,15 +756,15 @@
       <workItem from="1506557657471" duration="57000" />
       <workItem from="1507971987434" duration="110000" />
       <workItem from="1507973583955" duration="137000" />
+      <workItem from="1508066233834" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123445000" />
+    <option name="totallyTimeSpent" value="123486000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1378" height="744" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1378" height="744" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -702,9 +772,9 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.034700315" sideWeight="0.29882526" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.034755133" sideWeight="0.29882526" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.036277603" sideWeight="0.70117474" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -787,7 +857,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
           <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1508063121198" expanded="false" signature="3108:3118" ph=" { " />
+            <marker date="1508063121198" expanded="false" signature="3131:3137" ph=" }" />
+            <marker date="1508063121198" expanded="false" signature="3170:3181" ph=" { " />
+            <marker date="1508063121198" expanded="false" signature="3198:3204" ph=" }" />
+            <marker date="1508063121198" expanded="true" signature="3257:3524" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="3564:3728" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="3758:4209" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="3759:3839" ph="//..." />
+            <marker date="1508063121198" expanded="true" signature="4238:4991" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="5036:5611" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -835,7 +916,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1512">
           <caret line="88" column="21" lean-forward="false" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
-          <folding />
+          <folding>
+            <marker date="1508063121198" expanded="false" signature="3108:3118" ph=" { " />
+            <marker date="1508063121198" expanded="false" signature="3131:3137" ph=" }" />
+            <marker date="1508063121198" expanded="false" signature="3170:3181" ph=" { " />
+            <marker date="1508063121198" expanded="false" signature="3198:3204" ph=" }" />
+            <marker date="1508063121198" expanded="true" signature="3257:3524" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="3564:3728" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="3758:4209" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="3759:3839" ph="//..." />
+            <marker date="1508063121198" expanded="true" signature="4238:4991" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="5036:5611" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -882,7 +974,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1854">
           <caret line="103" column="5" lean-forward="false" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
-          <folding />
+          <folding>
+            <marker date="1508063121198" expanded="false" signature="3108:3118" ph=" { " />
+            <marker date="1508063121198" expanded="false" signature="3131:3137" ph=" }" />
+            <marker date="1508063121198" expanded="false" signature="3170:3181" ph=" { " />
+            <marker date="1508063121198" expanded="false" signature="3198:3204" ph=" }" />
+            <marker date="1508063121198" expanded="true" signature="3257:3524" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="3564:3728" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="3758:4209" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="3759:3839" ph="//..." />
+            <marker date="1508063121198" expanded="true" signature="4238:4991" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="5036:5611" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -966,7 +1069,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1330">
           <caret line="74" column="47" lean-forward="false" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
-          <folding />
+          <folding>
+            <marker date="1508063121198" expanded="false" signature="3108:3118" ph=" { " />
+            <marker date="1508063121198" expanded="false" signature="3131:3137" ph=" }" />
+            <marker date="1508063121198" expanded="false" signature="3170:3181" ph=" { " />
+            <marker date="1508063121198" expanded="false" signature="3198:3204" ph=" }" />
+            <marker date="1508063121198" expanded="true" signature="3257:3524" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="3564:3728" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="3758:4209" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="3759:3839" ph="//..." />
+            <marker date="1508063121198" expanded="true" signature="4238:4991" ph="{...}" />
+            <marker date="1508063121198" expanded="true" signature="5036:5611" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -980,8 +1094,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="68" column="77" lean-forward="false" selection-start-line="68" selection-start-column="77" selection-end-line="68" selection-end-column="77" />
+        <state relative-caret-position="437">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -990,8 +1104,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/GraphViz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="85" column="7" lean-forward="false" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+        <state relative-caret-position="114">
+          <caret line="34" column="15" lean-forward="false" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
           <folding />
         </state>
       </provider>

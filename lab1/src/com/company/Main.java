@@ -76,7 +76,7 @@ public class Main {
             }
         });
 
-        button2.addActionListener(new ActionListener() {//展示生成有向图
+        button2.addActionListener(new ActionListener() {//
             @Override
             public void actionPerformed(ActionEvent e) {
                 if(G != null ) {
